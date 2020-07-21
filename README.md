@@ -4,8 +4,12 @@
 
 TechTower is a landing page built using only Html and Css.
 
+![](https://imgur.com/50x8gb3.gif)
 
+## Credits
+
+Thank you for images to https://www.freepik.com
 
 ------
 
-⌨️ with❤️ for [AndyGeek](https://github.com/andygeek) 😊
+⌨️ with ❤️ for [AndyGeek](https://github.com/andygeek) 😊
